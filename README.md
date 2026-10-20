@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 🚀 What I'm building
 
 - **FixFlow**: an AI-assisted maintenance ticket system where users report issues, technicians get assigned, and Gemini suggests ticket categories and similar past repairs. *(Spring Boot, React, PostgreSQL, FastAPI)*
-- **Vision3D**: a web-based interior design tool that turns 2D floor plans into a live 3D view. *(Next.js, Three.js, Node.js, MongoDB)*
+- **NexaBuild**: a web-based interior design tool that turns 2D floor plans into a live 3D view. *(Next.js, Three.js, Node.js, MongoDB)*
 - **FreshRoute**: a marketplace platform with web and mobile apps, built with a team. *(React, React Native, Express, Prisma)*
 - **RythmoBot**: an Arduino dancing robot controlled from a web page and synced to music. *(C, Arduino)*
 
