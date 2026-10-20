@@ -14,3 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi, I'm Tharuki 👋</h1>
+
+<p align="center">
+  Software engineering undergraduate at the University of Moratuwa<br>
+  Full-stack developer · Looking for an internship
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🚀 What I'm building
+
+- **FixFlow**: an AI-assisted maintenance ticket system where users report issues, technicians get assigned, and Gemini suggests ticket categories and similar past repairs. *(Spring Boot, React, PostgreSQL, FastAPI)*
+- **Vision3D**: a web-based interior design tool that turns 2D floor plans into a live 3D view. *(Next.js, Three.js, Node.js, MongoDB)*
+- **FreshRoute**: a marketplace platform with web and mobile apps, built with a team. *(React, React Native, Express, Prisma)*
+- **RythmoBot**: an Arduino dancing robot controlled from a web page and synced to music. *(C, Arduino)*
+
+## 🛠️ Tech I use
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharukiTV&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukiTV&layout=compact&theme=tokyonight&hide_border=true" height="150">
+</p>
+
+## 📫 Let's connect
+
+I'm open to software engineering internships. Feel free to message me on LinkedIn or email me!
